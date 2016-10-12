@@ -3,3 +3,4 @@
 data-raw/*
 ^\.travis\.yml$
 ^CONDUCT\.md$
+cran-comments.md

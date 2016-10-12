@@ -3,7 +3,7 @@ Type: Package
 Title: Convert Between Units
 Version: 0.1
 Date: 2015-06-24
-Authors@R: person("Gordon", "Shotwell", email = "g.e.shotwell@gmaill.com",
+Authors@R: person("Gordon", "Shotwell", email = "g.e.shotwell@gmail.com",
                   role = c("aut", "cre"))
 Description: Provides conversion functionality between a broad range of
     scientific, historical, and industrial unit types.
