@@ -2,9 +2,13 @@
 
 [![Travis-CI Build Status](https://travis-ci.org/GShotwell/convertr.svg?branch=master)](https://travis-ci.org/GShotwell/convertr)
 
-An R package for converting things to other things. The package is not on CRAN but can be installed using:
+An R package for converting things to other things. The package can be installed from CRAN or Github.
 
 ```
+install.packages("convertr")
+
+
+#development
 install.packages("devtools")
 devtools::install_github("GShotwell/convertr")
 ```
