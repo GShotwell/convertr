@@ -20,7 +20,7 @@ convert(1:20, "kg", "g")
 convert(1:20, "sq yd", "km2")
 
 #This will produce an error:
-convert(1:20, "kg", "km2)
+convert(1:20, "kg", "km2")
 ```
 Units are converted using a lookup table, based on the POSC dictionary. You can explore this table using the `explore_units()` function. This function launches a shiny app. 
 
